@@ -1,6 +1,6 @@
 #### IN ACTION
 
-Fetch data , functional buttons , loading state .
+Fetching data from api  , functional buttons , loading state .
 
 [Live Demo](https://tabs-react-project-2.netlify.app/)
 
